@@ -14,5 +14,5 @@ Exploratory Data Analysis (EDA):
 Performed EDA to gain insights into the data, including visualizations of key metrics such as price, ratings, brand distribution, and other relevant attributes.
 Business Intelligence Dashboard:
 
-Created an interactive BI dashboard using tools like Power BI or Tableau to visualize the data and insights in a user-friendly way.
+Created an interactive BI dashboard using tool like Power BI to visualize the data and insights in a user-friendly way.
 While the goal of this project was not to perform in-depth business analysis, it allowed me to practice my skills in web scraping, data cleaning, and dashboard creation.
